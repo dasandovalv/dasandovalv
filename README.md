@@ -36,7 +36,7 @@ Actualmente me encuentro aprendiendo a programar con **Python** y **PSeInt**. Me
 ## 📈 Estadísticas
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasandovalv&show_icons=true&theme=tokyonight)](https://github.com/dasandovalv)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasandovalv&theme=dracula&show_icons=true&hide_border=false&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasandovalv&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 ---
 
 
