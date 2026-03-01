@@ -34,7 +34,9 @@ Actualmente me encuentro aprendiendo a programar con **Python** y **Java**. Me i
 #### Languages and Tools 
 <p>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
-
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="24" style="vertical-align:middle;"/>
+  <span style="margin-left:8px;"></span>
+</p>
 
 
 </p>
