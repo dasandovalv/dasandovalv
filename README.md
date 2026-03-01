@@ -13,15 +13,10 @@ Actualmente me encuentro aprendiendo a programar con **Python** y **PSeInt**. Me
 ## 🧠 Aprendiendo ahora
 
 - 🐍 **Python** – explorando desde lo básico hasta estructuras más complejas.
-- 📐 **PSeInt** – reforzando la lógica.
+- 📐 **Java** – Programación orientada a objetos.
 
 ---
 
-## 🧪 Proyectos en progreso
-
-- 💡 **Ejercicios de lógica en Python**
-- 📘 **Algoritmos en PSeInt para principiantes**
-- 📊 **Pequeñas calculadoras, listas y estructuras de datos simples**
 
 ---
 
