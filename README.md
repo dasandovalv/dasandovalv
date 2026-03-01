@@ -6,7 +6,7 @@
 
 # 👋 ¡Hola, soy David Sandoval!
 
-Actualmente me encuentro aprendiendo a programar con **Python** y **PSeInt**. Me interesa desarrollar habilidades en lógica de programación, resolver problemas y construir soluciones útiles desde cero.
+Actualmente me encuentro aprendiendo a programar con **Python** y **Java**. Me interesa desarrollar habilidades en lógica de programación, resolver problemas y construir soluciones útiles desde cero.
 
 ---
 
